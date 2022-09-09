@@ -66,5 +66,5 @@ N/A
 ## Please contact me:
   * [My GitHub Profile](https://github.com/bpoole83)
   * [My Github Project Repository](https://github.com/BPoole83/MERN-Book-Search)
-  * [My Github Deployed IO](https://)
+  * [My Github Deployed IO](https://bpoole83.github.io/MERN-Book-Search/)
   * Email us at: [poole.bryce@gmail.com](mailto:poole.bryce@gmail.com) with questions or make an issue about this project.
